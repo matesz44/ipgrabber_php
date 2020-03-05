@@ -1,0 +1,34 @@
+body {
+	/*background-color: #CD853F;*/
+	margin: 30px;
+	text-align: center;
+	font-size: 25px;
+	color: red;
+	
+}
+
+
+a {
+	/*cursor: crosshair;*/
+	color: blue;
+	font-family: Arial;
+	text-decoration: none;
+}
+
+h1{
+	color: #6d0d0d;
+	
+}
+
+.button{
+	font: bold 25px Arial;
+        text-decoration: none;
+        background-color: #661111;
+        color: green;
+        padding: 6px 8px 4px 8px;
+        border-top: 2px solid #AAAAAA;
+        border-right: 2px solid #AAAAAA;
+        border-bottom: 2px solid #AAAAAA;
+        border-left: 2px solid #AAAAAA;
+
+}
